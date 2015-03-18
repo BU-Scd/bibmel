@@ -1,0 +1,28 @@
+@page {
+  margin: 10%;
+  size: portrait;
+}
+
+.mail {
+  page-break-after: always;
+}
+
+.ferme {
+  display: none;
+}
+
+#titre {
+  display: none;
+}
+
+#logo {
+  display: none;
+}
+
+#msg {
+  display: none;
+}
+
+#version {
+  display: none;
+}
