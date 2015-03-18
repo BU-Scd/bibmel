@@ -6,7 +6,7 @@ Bibmel source code, a tool used by libraries to send emails to users who didn't 
 Présentation
 ------------
 
-Bibmel est un logiciel web CASsifié, créé par Jérôme Bousquié, de l'IUT de Rodez, et modifié par la suite par Jérémy Raingeard, de l'Université Toulouse III - Paul Sabatier. Bibmel permet aux bibliothécaires d'envoyer par mail à leurs usagers les messages de rappel, de préavis ou de réservation à partir d'un fichier texte produit par le progiciel Horizon. Bibmel constitue une alternative web au logiciel Infomail.
+Bibmel est un logiciel web CASsifié, créé par [Jérôme Bousquié](https://github.com/jbousquie), de l'IUT de Rodez, et modifié par la suite par Jérémy Raingeard, de l'Université Toulouse III - Paul Sabatier. Bibmel permet aux bibliothécaires d'envoyer par mail à leurs usagers les messages de rappel, de préavis ou de réservation à partir d'un fichier texte produit par le progiciel Horizon. Bibmel constitue une alternative web au logiciel Infomail.
 
 Utilisation
 -----------
