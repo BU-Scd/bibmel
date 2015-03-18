@@ -4,7 +4,7 @@ include_once('version.php');
 // URL de base de l'appli web (nÃ©cessaire pour les liens inscrits dans les mmails)
 // Ne pas oublier le slash final !
 // ex : $url_bib="https://webapp.univ.fr/bib/";
-$url_bib = "http://scdtlse3.ups-tlse.fr/bibmel/";
+$url_bib = "http://mon-url.fr/bibmel/";
 
 // conf serveur CAS
 // ex :
